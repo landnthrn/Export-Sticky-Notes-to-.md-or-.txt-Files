@@ -1,4 +1,4 @@
-<img width="913" height="559" alt="seelen-ui_MIWRTKEqAP" src="https://github.com/user-attachments/assets/e37040fc-4b7e-4b33-97ed-a6063feafa0f" />
+<img width="913" height="559" alt="ExportStickyNotesUIPreview" src="https://github.com/user-attachments/assets/d25589fa-d18e-4c92-8e2c-0abd675d7b89" />
 
 # Export-Sticky-Notes-to-.md-or-.txt-Files
 **Options to include markdown's and last edited date.**  
