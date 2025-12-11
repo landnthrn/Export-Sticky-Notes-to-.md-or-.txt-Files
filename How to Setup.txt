@@ -15,7 +15,7 @@ REQUIREMENTS:
   Install the sqlite-tools-win-x64-LATESTVERSION#.zip
 
   Or just use this Direct Download Link:
-  https://www.sqlite.org/2025/sqlite-tools-win-x64-3500400.zip)
+  https://www.sqlite.org/2025/sqlite-tools-win-x64-3500400.zip
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
