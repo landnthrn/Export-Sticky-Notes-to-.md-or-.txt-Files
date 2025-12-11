@@ -1,6 +1,6 @@
 <img width="913" height="559" alt="ExportStickyNotesUIPreview" src="https://github.com/user-attachments/assets/d25589fa-d18e-4c92-8e2c-0abd675d7b89" />
 
-# Export-Sticky-Notes-to-.md-or-.txt-Files
+# Export Sticky-Notes to .md or .txt Files
 **Options to include markdown's and last edited date.**  
 **Comes with a mini Command Prompt UI**
 
