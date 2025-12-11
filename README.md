@@ -1,7 +1,7 @@
 <img width="913" height="559" alt="seelen-ui_MIWRTKEqAP" src="https://github.com/user-attachments/assets/e37040fc-4b7e-4b33-97ed-a6063feafa0f" />
 
 # Export-Sticky-Notes-to-.md-or-.txt-Files
-**Export all Sticky Notes to .md or .txt files, options to include markdown's and last edited date.**  
+**Options to include markdown's and last edited date.**  
 **Comes with a mini Command Prompt UI**
 
 ## Requirements:
