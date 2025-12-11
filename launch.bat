@@ -6,8 +6,5 @@ set "SCRIPT=%~dp0Sticky Notes Export.ps1"
 
 "%PS%" -NoProfile -ExecutionPolicy Bypass -File "%SCRIPT%"
 
-echo.
-pause
-
 endlocal
 

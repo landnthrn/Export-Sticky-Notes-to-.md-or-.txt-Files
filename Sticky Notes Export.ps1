@@ -501,12 +501,12 @@ Remove-Item $tmpCsvNoBom,$tmpCsvWithBom,$scriptPath -ErrorAction SilentlyContinu
 $extDisplay = if ($fileExtension -eq ".txt") { ".txt" } else { ".md" }
 Write-Host "Done! All Sticky Notes are now exported to $extDisplay files in:" -ForegroundColor $ColorQuestion
 Write-Host " $outDir" -ForegroundColor $ColorOption
-Write-Host "" -ForegroundColor $ColorOption
-Write-Host "Found this useful? Please give the GitHub post a star :)" -ForegroundColor $ColorOption
-Write-Host "" -ForegroundColor $ColorOption
-Write-Host "Check out more of my creations on GitHub:" -ForegroundColor $ColorOption
-Write-Host "https://github.com/landnthrn?tab=repositories" -ForegroundColor $ColorOption
-Write-Host "" -ForegroundColor $ColorOption
+Write-Host "" -ForegroundColor $ColorQuestion
+Write-Host "Found this useful? Please give the GitHub post a star :)" -ForegroundColor $ColorQuestion
+Write-Host "" -ForegroundColor $ColorQuestion
+Write-Host "Check out more of my creations on GitHub:" -ForegroundColor $ColorQuestion
+Write-Host "https://github.com/landnthrn?tab=repositories" -ForegroundColor $ColorQuestion
+Write-Host "" -ForegroundColor $ColorQuestion
 Write-Host "Press any key to continue . . ." -ForegroundColor $ColorQuestion
 [void][System.Console]::ReadKey($true)
 
