@@ -6,9 +6,9 @@
 
 ## Requirements:
 
-**PowerShell 5.1 or above** *(Run as Administrator)*
+- **PowerShell 5.1 or above** *(Run as Administrator)*
 
-**[SQLite Tools](https://www.sqlite.org/download.html)**  
+- **[SQLite Tools](https://www.sqlite.org/download.html)**  
 **Install the `sqlite-tools-win-x64-LATESTVERSION#.zip`**  
 **Or just use this [Direct Download Link](https://www.sqlite.org/2025/sqlite-tools-win-x64-3500400.zip)**
 
