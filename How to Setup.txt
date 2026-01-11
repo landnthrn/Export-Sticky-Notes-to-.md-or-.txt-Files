@@ -1,12 +1,16 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Export all Sticky Notes to .md or .txt files, options to include markdown's and last edited date.
+Export all Sticky Notes to .md or .txt files
+by landn.thrn
+
+Options to include markdown's and last edited date.
 Comes with a mini Command Prompt UI
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 REQUIREMENTS:
+
 — PowerShell 5.1 or above (Run as Administrator)
 
 — SQLite Tools: 
@@ -14,19 +18,17 @@ REQUIREMENTS:
  
   Install the sqlite-tools-win-x64-LATESTVERSION#.zip
 
-  Or just use this Direct Download Link:
-  https://www.sqlite.org/2025/sqlite-tools-win-x64-3500400.zip
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 HOW TO USE:
-Create a folder in C:\ named CleanPaths
 
-Create a folder inside CleanPaths called sqlite
+— Create a folder in C:\ named CleanPaths
 
-Unzip the SQLite download & place all the SQLite files inside C:\CleanPaths\sqlite
+— Create a folder inside CleanPaths called sqlite
 
-Run the launch.bat
+— Unzip the SQLite download & place all the SQLite files inside C:\CleanPaths\sqlite
+
+— Run the launch.bat
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
